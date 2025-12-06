@@ -1,5 +1,4 @@
 # Manufacturing Downtime Analysis
-**DEPI Graduation Project**
 
 ## 📌 Project Overview
 This project focuses on analyzing and predicting manufacturing downtime in a drinks production environment. It was developed as a graduation project under the **Digital Egypt Pioneers Initiative (DEPI)**, aiming to transform raw production data into actionable insights that support operational efficiency, downtime reduction, and data-driven decision-making.
